@@ -44,3 +44,9 @@ Son olarak, [11, 16, 21] ve [8, 12, 22] birleştirilir:
 
 Sonuç: [8, 11, 12, 16, 21, 22]
 ```
+
+2. Big-O gösterimini yazınız.
+
+```
+Merge Sort'un zaman karmaşıklığı her zaman O(n log n)'dir.
+```
